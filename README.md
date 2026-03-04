@@ -1,0 +1,2 @@
+# Practica_OptimizarImagenes_Carles_Salvany
+
